@@ -1,9 +1,9 @@
 ---
-title: Research
-permalink: /research/
+title: Teaching
+permalink: /teaching/
 ---
 
-#### Teaching
+### Teaching
 
 ### Bielefeld University
 
