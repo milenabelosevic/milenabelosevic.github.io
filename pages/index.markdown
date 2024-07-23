@@ -4,16 +4,4 @@
 
 layout: home
 ---
-
-#### Research interests
-
- *
- *
- *
-
-
-### Contact information
-
-Fakultät für Linguistik und Literaturwissenschaft
-
-D-33501 Bielefeld
+homepage
