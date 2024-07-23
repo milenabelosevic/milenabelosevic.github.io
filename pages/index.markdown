@@ -5,8 +5,6 @@
 
 layout: home
 
-permalink: /home/
 
 ---
 
-homepage

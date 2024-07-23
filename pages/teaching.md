@@ -2,7 +2,6 @@
 permalink: /teaching/
 ---
 
-### Teaching
 
 ### Bielefeld University
 
