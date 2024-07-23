@@ -1,4 +1,5 @@
 ---
+title: /teaching/
 permalink: /teaching/
 ---
 
