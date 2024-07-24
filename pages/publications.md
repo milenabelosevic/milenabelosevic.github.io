@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-Publications: [PUB Uni Bielefeld]: https://pub.uni-bielefeld.de/person/337681111
+Publications: [PUB Uni Bielefeld]: (https://pub.uni-bielefeld.de/person/337681111)
