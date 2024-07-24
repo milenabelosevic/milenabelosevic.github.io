@@ -1,6 +1,7 @@
 ---
 layout: page
+title: Publications
 permalink: /publications/
 ---
 
-Publications: https://pub.uni-bielefeld.de/person/337681111
+ https://pub.uni-bielefeld.de/person/337681111
