@@ -44,13 +44,22 @@ Belosevic, Milena. 2024. “Die Semantik ereignisbasierter Personennamenkomposit
 Belosevic, Milena. 2022. “Veggie-Renate und Merci-Jens. Semantik und Pragmatik onymischer Personennamenkomposita”. Zeitschrift für germanistische Linguistik 50 (2): 289-319.  
  
 
-# Talks
+# Selected Presentations
+
+Belosevic, Milena. 2025. “Vertrauen in der Mensch-Maschine-Interaktion am Beispiel von LLM-basierten Chatbots”.Tagung im Rahmen des Forschungsnetzwerks „Sprache und Wissen“
+17.-19. September 2025, Akademie der Wissenschaften Heidelberg.
 
 Belosevic, Milena, and Buschmeier, Hendrik. 2024. “Calibrating trust and enhancing user agency in LLM-based chatbots through conversational styles”. In CUI@CHI 2024: Building Trust in CUIs – From Design to Deployment, 1–7.  
 
-Belosevic, Milena, and Buschmeier, Hendrik. 2024. “Der Einfluss von Nachfragen auf die Nutzer-Agency in Interaktionen mit ChatGPT”. Presented at the 73. Treffen des Arbeitskreises Angewandte Gesprächsforschung (AAG) , Hamburg, Germany .  
+Belosevic, Milena, and Buschmeier, Hendrik. 2024. “Der Einfluss von Nachfragen auf die Nutzer-Agency in Interaktionen mit ChatGPT”. Presented at the 73. Treffen des Arbeitskreises Angewandte Gesprächsforschung (AAG) , Hamburg, Germany.
+
+Belosevic, Milena. 2023. “Creativity in name-based word formation: Evidence from the experimental study of personal name blends”. Presented at the International Symposium of Morphology 2023, Université de Lorraine, Nancy.
+
+Belosevic, Milena. 2023. “The interplay between frame semantics and construction morphology in modeling the meaning of compounds. The case of eventive personal name compounds in German”. Presented at the The 12th International Conference on Construction Grammar, Prague.
 
 Belosevic, Milena. 2023. “A corpus-based contrastive approach to name blending in German and English”. In 10th International Contrastive Linguistics Conference. Book of Abstracts, ed. Beata Trawiski, Marc Kupietz, Kristel Proost, and Jörg Zinken, 244-245. Mannheim: IDS-Verlag.  
 
-Belosevic, Milena. 2023. “Modeling the influence of nonlinguistic factors on word formation creativity. The case of name blending”. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea, Athen .  
+Belosevic, Milena. 2023. “Modeling the influence of nonlinguistic factors on word formation creativity. The case of name blending”. Presented at the 56th Annual Meeting of the Societas Linguistica Europaea, Athen.
+
+Belosevic, Milena, and Arndt-Lappe, Sabine. 2021. “Merci-Jens and Lösch-Leyen. The Semantics of Personal Name Compounds in German”. Presented at the International Symposium of Morphology, Toulouse.
 
