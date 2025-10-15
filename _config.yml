@@ -6,7 +6,7 @@ remote_theme: jekyll/minima
 
 minima:
   nav_pages:   
-    - about.md
+    - index.md
     - research.md
     - publications.md
   social_links:
