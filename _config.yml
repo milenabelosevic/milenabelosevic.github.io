@@ -8,6 +8,4 @@ header_pages:
     - research.md
     - publications.md
     - teaching.md
-  social_links:
-      - { platform: email, user_url: "mailto:milena.belosevic@uni-bielefeld.de" }
-
+ 
