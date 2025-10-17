@@ -4,11 +4,10 @@ description: " "
 plugins: [jekyll-remote-theme]
 remote_theme: jekyll/minima
 
-minima:
-  nav_pages:   
-    - index.md
+header_pages:   
     - research.md
     - publications.md
+    - teaching.md
   social_links:
       - { platform: email, user_url: "mailto:milena.belosevic@uni-bielefeld.de" }
 
