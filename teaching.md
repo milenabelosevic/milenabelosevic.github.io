@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## Courses at Bielefeld University
+### Courses at Bielefeld University
 
 **Wintersemester 2025/26**  
 - *Muster der digitalen Kommunikation* (Bachelor & Master)  
@@ -40,7 +40,7 @@ title: Teaching
 
 ---
 
-## Courses at the University of Trier
+### Courses at the University of Trier
 
 **Wintersemester 2021/22**  
 - *Korpuslinguistik* (Bachelor)
@@ -59,7 +59,7 @@ title: Teaching
 
 ---
 
-## International Teaching Experience
+### International Teaching Experience
 
 **Februar/März 2025** (Universitat de València, Departament de Filologia Anglesa i Alemanya, Facultat de Filologia, Traducció i Comunicació)  
 - *Deutsch für Übersetzer:innen* (Bachelor)  
