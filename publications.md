@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-See also [here](https://pub.uni-bielefeld.de/person/337681111) for an up-to-date publication list.
+See also [here](https://pub.uni-bielefeld.de/person/337681111){:target="_blank" rel="noopener"} for an up-to-date publication list.
 
 
 
