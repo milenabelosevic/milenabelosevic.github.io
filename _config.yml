@@ -5,10 +5,9 @@ plugins: [jekyll-remote-theme]
 remote_theme: jekyll/minima
 
 header_pages:
-
-    - research.md
-    - publications.md
-    - teaching.md
-    - links-and-memberships.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - links-and-memberships.md
   
  
