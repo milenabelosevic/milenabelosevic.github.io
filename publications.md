@@ -7,10 +7,10 @@ See also [here](https://pub.uni-bielefeld.de/person/337681111) for an up-to-date
 
 
 
-## Monograph
+### Monograph
 Belosevic, Milena (2022). *Vertrauen und Misstrauen in der Flüchtlingsdebatte 2015–2017. Eine diskurslinguistische Untersuchung von Argumentationsmustern*. Hamburg: Buske. (= PhD Thesis, Universität Trier)
 
-## Journal Articles  
+### Journal Articles  
 Belosevic, Milena (in print, to appear in March 2026). The Influence of Linguistic Experience and Connotative Meanings on the Perceived Creativity of German Personal Name Blends: An Experimental Study. *Word Structure*.
 
 Belosevic, Milena (2025). The Influence of Formal Similarity on Creativity in Name-Based Word Formation: The Case of Personal Name Blends in German. *Linguistics*. <https://doi.org/10.1515/ling-2024-0008>
@@ -29,7 +29,7 @@ Belosevic, Milena (2020). „Was steckt denn nun wirklich hinter diesem Impfzwan
 
 Belosevic, Milena (2019). Nebensache Europa? Sprachliche Konstruktion der (weichen) Europaskepsis im Diskurs über die Europawahlen 1994–2004. *Aptum. Zeitschrift für Sprachkritik und Sprachkultur* 1, 70–90. <https://doi.org/10.46771/9783967691610_5>
 
-## Book Chapters
+### Book Chapters
 Schäfer, Pavla & **Belosevic, Milena** (2024). Facetten der linguistischen und interdisziplinären Vertrauensforschung. Einleitung zum Sammelband *Sprache und Vertrauen*. In: Schäfer, Pavla & Belosevic, Milena (Hrsg.), *Sprache und Vertrauen*. Berlin/Boston: De Gruyter (= Sprache und Wissen). <https://doi.org/10.1515/9783111452883-001>
 
 Schäfer, Pavla & **Belosevic, Milena** (2024). Interdisziplinäre Brückenschläge. In: Schäfer, Pavla & Belosevic, Milena (Hrsg.), *Sprache und Vertrauen*. Berlin/Boston: De Gruyter (= Sprache und Wissen). <https://doi.org/10.1515/9783111452883-014>
@@ -42,12 +42,12 @@ Belosevic, Milena (2021). „Das böse Wort mit C“: Sprachliche Strategien des
 
 Belosevic, Milena (2021). „Die Stimmung kippt (nicht von allein)“: Sprachliche Angstkonstruktion im Flüchtlingsdiskurs. In: Filatkina, Natalia & Franziska Bergmann (Hrsg.), *Angst. Manifestation und Konstruktion einer Emotion*. Berlin/Boston: De Gruyter (= Sprache und Wissen), 295–322. <https://doi.org/10.1515/9783110729603-011>
 
-## Edited Volumes
+### Edited Volumes
 Schäfer, Pavla & **Belosevic, Milena** (Hrsg.) (2024). *Sprache und Vertrauen. Facetten der linguistischen und interdisziplinären Vertrauensforschung*. Berlin/Boston: De Gruyter (= Sprache und Wissen). <https://doi.org/10.1515/9783111452883>
 
 Arndt-Lappe, Sabine; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim & Sören Stumpf (Hrsg.) (in Druckvorbereitung). *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
 
-## Conference Proceedings  
+### Conference Proceedings  
 Eichel, Annerose; Deeg, Tana; Blessing, André; **Belosevic, Milena**; Arndt-Lappe, Sabine & Schulte im Walde, Sabine (2025). Tore-Klose: Record Scorer, Goal Hunter, Machine? Human Association Norms for German Personal Name Compounds. In: *Proceedings of the 2nd Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-Angle II)*. Vienna: ACL, 1–9. <https://doi.org/10.18653/v1/2025.analogyangle-1.1>
 
 **Belosevic, Milena** & Buschmeier, Hendrik (2025). LLM-based Classification of Grounding Acts in German. In: *Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025)*, 112–127. Hildesheim. <https://aclanthology.org/2025.konvens-1.11/>
@@ -58,10 +58,10 @@ Eichel, Annerose; Deeg, Tana; Blessing, André; **Belosevic, Milena**; Arndt-Lap
 
 **Belosevic, Milena** & Buschmeier, Hendrik (2024). Quote to Explain: Using Multimodal Metalinguistic Markers to Explain Large Language Models’ Understanding Capabilities. In: *Proceedings of the 26th ACM International Conference on Multimodal Interaction (ICMI 2024)*. <https://doi.org/10.1145/3686215.3689203>
 
-## Accepted / In Press
+### Accepted / In Press
 **Belosevic, Milena** (angenommen). Identifying stance-bearing keywords in public debates with instruction-tuned language models. *Anthology of Computers and the Humanities*.
 
-## Talks (selected)
+### Talks (selected)
 - 2024: Arndt-Lappe, S.; Belosevic, M.; Blessing, A.; Deeg, T.; Eichel, A.; Schulte im Walde, S. *„Merci Jens“ and „Villen-Spahn“. The evaluative semantics of personal name compounds in German*. Workshop *Unlocking Evaluative Morphology*, HU Berlin.
 - 09/2023: Belosevic, M. *Creativity in name-based word formation: Evidence from the experimental study of personal name blends*. International Symposium of Morphology, Université de Lorraine, Nancy.
 - 08/2023: Belosevic, M. *Modeling the influence of nonlinguistic factors on word formation creativity. The case of name blending*. 56th Annual Meeting of the Societas Linguistica Europaea, Athens.
