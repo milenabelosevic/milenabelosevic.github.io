@@ -4,15 +4,20 @@ layout: page
 permalink: /
 ---
 
-**Milena Belosevic** 
+ 
+I am a postdoctoral researcher in the Faculty of Linguistics and Literary Studies (German Linguistics) at <a href="https://www.uni-bielefeld.de/" target="_blank" rel="noopener">Bielefeld University</a>.  
 
-- I am a postdoctoral researcher at <a href="https://www.uni-bielefeld.de/" target="_blank" rel="noopener">Bielefeld University</a> in Germany.  
 
+My research focuses on the application of corpus-linguistic and computational methods to the study of language use. Main research topics include:
 
-- See my [Research](/research), [Publications](/publications), and [Teaching](/teaching).  
+-  name-based lexical patterns (in particular the semantics and pragmatics of name-based word formation)
+-  linguistic research on trust in human-human and human-machine interactions
+-  discourse analysis, media linguistics  
 
-- Contact: <a href="mailto:milena.belosevic@uni-bielefeld.de">milena.belosevic@uni-bielefeld.de</a>
-- ORCID: <https://orcid.org/0000-0003-4300-1372>
+----
+
+<a href="mailto:milena.belosevic@uni-bielefeld.de">milena.belosevic@uni-bielefeld.de</a>
+
 
 
   
