@@ -3,8 +3,10 @@ layout: page
 # no title on purpose
 permalink: /
 ---
+<img src="/assets/img/milena.jpeg" alt="Portrait of Milena Belosevic"
+     style="float:right; margin:0 0 1rem 1.5rem; width:220px; border-radius:8px;">
 
- 
+
 I am a postdoctoral researcher in the Faculty of Linguistics and Literary Studies (German Linguistics) at <a href="https://www.uni-bielefeld.de/" target="_blank" rel="noopener">Bielefeld University</a>.  
 
 
