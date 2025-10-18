@@ -3,6 +3,7 @@ layout: page
 title: Research
 ---
 
+
 My research combines qualitative and quantitative methods to analyze the relationship between linguistic and extralinguistic patterns in texts and dialogues. In interdisciplinary projects, I investigate how corpus-linguistic, experimental, and computational approaches advance the study of how humans and machines produce and interpret patterns of language use.
 
  ## Name-based word formation patterns in German
@@ -11,4 +12,4 @@ During my work as a postdoctoral researcher in the research unit [Project “Mus
 
  ## The linguistic construction of trust, mistrust, and fear in German media 
 
-As part of my PhD project, I examined how trust, mistrust, and fear were constructed in German media coverage of the refugee debate (2015–2017). Drawing on the concept of argumentation patterns (topoi), I operationalized the sociological concept of trust for a discourse-analytic study. Using corpus-linguistic methods, I tested whether trust toward refugees changed from 2015 to 2017 across argumentation patterns identified through manual annotation. Subsequently, I applied this approach to other domains of public discourse, including Euroscepticism and the public debate about COVID-19. I also co-organized the conference on [Language and Trust][https://sprache-und-wissen.de/veranstaltungen/tagung-2021/] and co-edited the volume [Sprache und Vertrauen. Facetten der linguistischen und interdisziplinären Vertrauensforschung][https://www.degruyterbrill.com/document/doi/10.1515/9783111452883/html].
+As part of my PhD project, I examined how trust, mistrust, and fear were constructed in German media coverage of the refugee debate (2015–2017). Drawing on the concept of argumentation patterns (topoi), I operationalized the sociological concept of trust for a discourse-analytic study. Using corpus-linguistic methods, I tested whether trust toward refugees changed from 2015 to 2017 across argumentation patterns identified through manual annotation. Subsequently, I applied this approach to other domains of public discourse, including Euroscepticism and the public debate about COVID-19. I also co-organized the conference on [Language and Trust](https://sprache-und-wissen.de/veranstaltungen/tagung-2021/) and co-edited the volume [Sprache und Vertrauen. Facetten der linguistischen und interdisziplinären Vertrauensforschung](https://www.degruyterbrill.com/document/doi/10.1515/9783111452883/html).
