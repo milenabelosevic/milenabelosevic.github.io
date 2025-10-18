@@ -3,12 +3,14 @@ layout: page
 title: Publications
 ---
 
+See also [here](https://pub.uni-bielefeld.de/person/337681111) for an up-to-date publication list.
 
 
-## Monographs
-Belosevic, Milena (2022). *Vertrauen und Misstrauen in der Flüchtlingsdebatte 2015–2017. Eine diskurslinguistische Untersuchung von Argumentationsmustern*. Hamburg: Buske. (= Dissertation, Universität Trier)
 
-## Journal Articles (peer-reviewed)
+## Monograph
+Belosevic, Milena (2022). *Vertrauen und Misstrauen in der Flüchtlingsdebatte 2015–2017. Eine diskurslinguistische Untersuchung von Argumentationsmustern*. Hamburg: Buske. (= PhD Thesis, Universität Trier)
+
+## Journal Articles  
 Belosevic, Milena (in print, to appear in March 2026). The Influence of Linguistic Experience and Connotative Meanings on the Perceived Creativity of German Personal Name Blends: An Experimental Study. *Word Structure*.
 
 Belosevic, Milena (2025). The Influence of Formal Similarity on Creativity in Name-Based Word Formation: The Case of Personal Name Blends in German. *Linguistics*. <https://doi.org/10.1515/ling-2024-0008>
@@ -45,7 +47,7 @@ Schäfer, Pavla & **Belosevic, Milena** (Hrsg.) (2024). *Sprache und Vertrauen. 
 
 Arndt-Lappe, Sabine; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim & Sören Stumpf (Hrsg.) (in Druckvorbereitung). *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
 
-## Conference Proceedings (peer-reviewed)
+## Conference Proceedings  
 Eichel, Annerose; Deeg, Tana; Blessing, André; **Belosevic, Milena**; Arndt-Lappe, Sabine & Schulte im Walde, Sabine (2025). Tore-Klose: Record Scorer, Goal Hunter, Machine? Human Association Norms for German Personal Name Compounds. In: *Proceedings of the 2nd Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-Angle II)*. Vienna: ACL, 1–9. <https://doi.org/10.18653/v1/2025.analogyangle-1.1>
 
 **Belosevic, Milena** & Buschmeier, Hendrik (2025). LLM-based Classification of Grounding Acts in German. In: *Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025)*, 112–127. Hildesheim. <https://aclanthology.org/2025.konvens-1.11/>
