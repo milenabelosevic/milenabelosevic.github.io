@@ -14,9 +14,14 @@ My research focuses on the application of corpus-linguistic and computational me
 -  linguistic research on trust in human-human and human-machine interactions
 -  discourse analysis, media linguistics  
 
+See also [Research](Research) and [Publications](Publications).
+ 
 ----
+Contact:
 
 <a href="mailto:milena.belosevic@uni-bielefeld.de">milena.belosevic@uni-bielefeld.de</a>
+
+[University staff directory](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=337681111)
 
 
 
