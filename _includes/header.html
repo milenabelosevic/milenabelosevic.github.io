@@ -1,12 +1,21 @@
 <header class="site-header">
-  <div class="wrapper">
+  <div class="wrapper" style="display:flex; align-items:center; justify-content:space-between;">
+    <!-- site title (links to home) -->
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    <nav class="site-nav" style="display:flex; gap:1.25rem; align-items:center;">
-  <a class="page-link" href="{{ '/research' | relative_url }}">Research</a>
-  <a class="page-link" href="{{ '/publications' | relative_url }}">Publications</a>
-  <a class="page-link" href="{{ '/teaching' | relative_url }}">Teaching</a>
-  <a class="page-link" href="{{ '/links-and-memberships' | relative_url }}">Links &amp; Memberships</a>
-</nav>
 
+    <!-- make spacing consistent on all pages -->
+    <style>
+      /* Minima adds a left margin to .page-link; remove it to keep spacing uniform */
+      .site-nav .page-link { margin-left: 0 !important; }
+    </style>
+
+    <!-- navigation -->
+    <nav class="site-nav" aria-label="Main" style="display:flex; gap:1.25rem; align-items:center; flex-wrap:wrap;">
+      <a class="page-link" href="{{ '/research' | relative_url }}">Research</a>
+      <a class="page-link" href="{{ '/publications' | relative_url }}">Publications</a>
+      <a class="page-link" href="{{ '/teaching' | relative_url }}">Teaching</a>
+      <a class="page-link" href="{{ '/links-and-memberships' | relative_url }}">Links &amp; Memberships</a>
+    </nav>
   </div>
 </header>
+
