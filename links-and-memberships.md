@@ -13,11 +13,11 @@ Below are links to organizations, networks, and projects I’m associated with (
 
 - [Forschungsnetzwerk KULI – Kulturbezogene und kulturanalytische Linguistik](https://kulturlinguistik.org/start){:target="_blank" rel="noopener"}
   
+- [Forschungsnetzwerk Sprache und Wissen, Universität Heidelberg](http://sprache-und-wissen.de/){:target="_blank" rel="noopener"}
+  
 - [International Pragmatics Association (IPrA)](https://pragmatics.international/){:target="_blank" rel="noopener"}
   
 - [LinguisticA Berufsverband für Linguistinnen](https://linguistica-ev.org/){:target="_blank" rel="noopener"}
-
-- [Forschungsnetzwerk Sprache und Wissen, Universität Heidelberg](http://sprache-und-wissen.de/){:target="_blank" rel="noopener"}
   
 - [SFB 1646 Linguistic Creativity in Communication, Universität Bielefeld](https://www.uni-bielefeld.de/sfb/sfb1646/){:target="_blank" rel="noopener"}
 
