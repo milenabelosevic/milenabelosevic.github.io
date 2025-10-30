@@ -5,6 +5,11 @@ title: Teaching
 
 ### Courses at Bielefeld University
 
+**Sommersemester 2026**
+
+- Digitale Kommunikation korpuslinguistisch untersuchen (Bachelor und Master)
+- Korpora im Deutschunterricht (Master)
+
 **Wintersemester 2025/26**  
 - *Muster der digitalen Kommunikation* (Bachelor & Master)  
 - *Sprache und Vertrauen* (Bachelor)
