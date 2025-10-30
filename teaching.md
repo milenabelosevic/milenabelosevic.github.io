@@ -9,6 +9,7 @@ title: Teaching
 
 - Digitale Kommunikation korpuslinguistisch untersuchen (Bachelor und Master)
 - Korpora im Deutschunterricht (Master)
+- Muster und Variation im Sprachgebrauch reflektieren und lehren (Master)
 
 **Wintersemester 2025/26**  
 - *Muster der digitalen Kommunikation* (Bachelor & Master)  
