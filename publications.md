@@ -65,6 +65,9 @@ Eichel, Annerose; Deeg, Tana; Blessing, André; **Belosevic, Milena**; Arndt-Lap
 
 
 ### Talks (selected)
+- 02/2026: Belosevic, M. *Polare Fragen als Testfall pragmatischer Kompetenz: LLM-as-a-judge in Unterrichtschats*, Jahrestagung der Arbeitsgemeinschaft Linguistische Pragmatik: Pragmatik & Künstliche Intelligenz: Pragmatische Kompetenz zwischen Mensch und Maschine, Universität Trier.
+- 11/2025: Belosevic, M. *(How) does context help language models identify linguistic patterns in German?*, Guest lecture, Trier Center for Language and Communication, Universität Trier.
+- 09/2025: Belosevic, M. *Vertrauen in der Mensch-Maschine-Interaktion am Beispiel von LLM-basierten Chatbots*, Sprache und KI. Tagung im Rahmen des Forschungsnetzwerks „Sprache und Wissen“
 - 03/2024: Arndt-Lappe, S.; Belosevic, M.; Blessing, A.; Deeg, T.; Eichel, A.; Schulte im Walde, S. *„Merci Jens“ and „Villen-Spahn“. The evaluative semantics of personal name compounds in German*. Workshop *Unlocking Evaluative Morphology*, HU Berlin.
 - 06/2024: Belosevic M & Buschmeier H. *Linguistic-Based Reflection on Trust Calibration in Conversations with LLM-Based Chatbots*. In: Kuhl U, ed. Proceedings of the DataNinja sAIOnARA 2024 Conference. Bielefeld: BieColl. <https://doi.org/10.11576/dataninja-1160>
 - 05/2024: Belosevic, M. & Buschmeier, H. *Calibrating trust and enhancing user agency in LLM-based chatbots through conversational styles*. In CUI@CHI 2024: Building Trust in CUIs – From Design to Deployment, 1–7. <https://doi.org/10.5281/zenodo.10896068>
