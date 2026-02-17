@@ -45,9 +45,13 @@ Belosevic, Milena (2021). „Die Stimmung kippt (nicht von allein)“: Sprachlic
 ### Edited Volumes
 Schäfer, Pavla & **Belosevic, Milena** (Hrsg.) (2024). *Sprache und Vertrauen. Facetten der linguistischen und interdisziplinären Vertrauensforschung*. Berlin/Boston: De Gruyter (= Sprache und Wissen). <https://doi.org/10.1515/9783111452883>
 
-Arndt-Lappe, Sabine; Stumpf, Sören, **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.) (in Druckvorbereitung). *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
+Arndt-Lappe, Sabine; Stumpf, Sören, **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.) (to appear 2026). *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
 
 ### Conference Proceedings  
+
+Belosevic, Milena. 2026. German Counseling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
+
+Belosevic, Milena. 2026.  Invisible Speakers? Gender Disparity in German AI Discourse and Its Reflection in Language Models. Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (SIGHUM (LaTeCH-CLfL)).
 
 Belosevic, Milena. 2025. Identifying stance-bearing keywords in public debates with instruction-tuned language models”. In Anthology of Computers and the Humanities, ed. Taylor Arnold, Margherita Fantoli, and Ruben Ros, 436-466. https://doi.org/10.63744/NskPfU7etX83
 
