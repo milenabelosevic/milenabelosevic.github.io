@@ -13,15 +13,15 @@ See also [here](https://pub.uni-bielefeld.de/person/337681111){:target="_blank" 
   
 - Belosevic, Milena. 2026. Narrative construction of “AI” through anthropomorphising language in German public discourse. DH Benelux 2026, Maastricht.
 
-- Arndt-Lappe, Sabine; Stumpf, Sören, **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.) (to appear 2026). *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
+- Arndt-Lappe, Sabine; Stumpf, Sören, **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.) (to appear). *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
 
-- Belosevic, Milena (to appear in 2026). Name-based lexical patterns: The case of personal name compounds. In: Arndt-Lappe, Sabine; Stumpf, Sören, Belosevic, Milena; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
+- Belosevic, Milena (to appear). Name-based lexical patterns: The case of personal name compounds. In: Arndt-Lappe, Sabine; Stumpf, Sören, Belosevic, Milena; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
 
-- Arndt-Lappe, Sabine, Stumpf, Sören; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (to appear in 2026). Patterns in Language and Communication: An Introdcution. In: Arndt-Lappe, Sabine; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim & Sören Stumpf (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics). 
+- Arndt-Lappe, Sabine, Stumpf, Sören; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (to appear). Patterns in Language and Communication: An Introdcution. In: Arndt-Lappe, Sabine; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim & Sören Stumpf (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics). 
 
 - Belosevic, Milena (in print, to appear in March 2026). The Influence of Linguistic Experience and Connotative Meanings on the Perceived Creativity of German Personal Name Blends: An Experimental Study. *Word Structure* 19/1, 1-25.
 
-- Belosevic, Milena (2025). The Influence of Formal Similarity on Creativity in Name-Based Word Formation: The Case of Personal Name Blends in German. *Linguistics*. <https://doi.org/10.1515/ling-2024-0008>
+- Belosevic, Milena.2025. The Influence of Formal Similarity on Creativity in Name-Based Word Formation: The Case of Personal Name Blends in German. *Linguistics*. <https://doi.org/10.1515/ling-2024-0008>
 
 - Belosevic, Milena. 2025. Identifying stance-bearing keywords in public debates with instruction-tuned language models”. In Anthology of Computers and the Humanities, ed. Taylor Arnold, Margherita Fantoli, and Ruben Ros, 436-466. https://doi.org/10.63744/NskPfU7etX83
 
