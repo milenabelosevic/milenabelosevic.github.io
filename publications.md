@@ -6,7 +6,8 @@ title: Publications
 See also [here](https://pub.uni-bielefeld.de/person/337681111){:target="_blank" rel="noopener"} for an up-to-date publication list.
 
 
-
+- Belosevic, Milena. 2026. First- and second-order interpretation of small data patterns in German counselling dialogues. Digital Humanities Conference, Daejeon, South Korea.
+  
 - Belosevic, Milena. 2026. German Counseling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
 
 - Belosevic, Milena. 2026.  Invisible Speakers? Gender Disparity in German AI Discourse and Its Reflection in Language Models. Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (SIGHUM (LaTeCH-CLfL)).
