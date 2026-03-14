@@ -16,7 +16,7 @@ Main research topics:
 
 -  discourse analysis, media linguistics 
 -  conversational grounding in human-human and human-machine interaction
--  corpus linguistics, NLP, (digital) annotation  
+-  combining corpus linguistics, NLP, and (digital) annotation to study complex meaning
 
 See also [Research](Research) and [Publications](Publications).
  
