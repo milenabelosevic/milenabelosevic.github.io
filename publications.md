@@ -32,11 +32,7 @@ title: Publications
 ---
 
 
-
-<details>
-  <summary><strong>Full publication list</strong></summary>
-
-  <br>
+### Full publication list
 
 - Belosevic, Milena. 2026. First- and second-order interpretation of small data patterns in German counselling dialogues. Digital Humanities Conference, Daejeon, South Korea.
   
