@@ -24,7 +24,7 @@ title: Publications
 
 ### Grounding, interaction, and computational approaches
 
-- Belosevic, Milena (2026) German Counseling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
+- Belosevic, Milena (2026) German Counselling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
 - Belosevic, Milena (2025). User-Centric Design Paradigms for Trust and Control in Human-LLM-Interactions: A Survey. In: Proceedings of HCI+NLP 2025 (EMNLP Workshop), Suzhou, China. [10.18653/v1/2025.hcinlp-1.3]
 - **Belosevic, Milena** & Buschmeier, Hendrik (2025). LLM-based Classification of Grounding Acts in German. In: Proceedings of the 21st Conference on Natural Language Processing (KONVENS 2025), 112–127. Hildesheim. https://aclanthology.org/2025.konvens-1.11/
 
@@ -34,9 +34,11 @@ title: Publications
 
 ### Full publication list
 
+- Belosevic, Milena (2026). The Influence of Linguistic Experience and Connotative Meanings on the Perceived Creativity of German Personal Name Blends: An Experimental Study. *Word Structure* 19/1, 1-25. <https://doi.org/10.3366/word.2026.0259>
+- 
 - Belosevic, Milena. 2026. First- and second-order interpretation of small data patterns in German counselling dialogues. Digital Humanities Conference, Daejeon, South Korea.
   
-- Belosevic, Milena. 2026. German Counseling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
+- Belosevic, Milena. 2026. German Counselling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
 
 - Belosevic, Milena. 2026.  Invisible Speakers? Gender Disparity in German AI Discourse and Its Reflection in Language Models. Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (SIGHUM (LaTeCH-CLfL)).
   
@@ -46,9 +48,7 @@ title: Publications
 
 - Belosevic, Milena (to appear). Name-based lexical patterns: The case of personal name compounds. In: Arndt-Lappe, Sabine; Stumpf, Sören, Belosevic, Milena; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
 
-- Arndt-Lappe, Sabine, Stumpf, Sören; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (to appear). Patterns in Language and Communication: An Introdcution. In: Arndt-Lappe, Sabine; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim & Sören Stumpf (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics). 
-
-- Belosevic, Milena (in print, to appear in March 2026). The Influence of Linguistic Experience and Connotative Meanings on the Perceived Creativity of German Personal Name Blends: An Experimental Study. *Word Structure* 19/1, 1-25.
+- Arndt-Lappe, Sabine, Stumpf, Sören; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (to appear). Patterns in Language and Communication: An Introduction. In: Arndt-Lappe, Sabine; **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim & Sören Stumpf (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics). 
 
 - Belosevic, Milena.2025. The Influence of Formal Similarity on Creativity in Name-Based Word Formation: The Case of Personal Name Blends in German. *Linguistics*. <https://doi.org/10.1515/ling-2024-0008>
 
