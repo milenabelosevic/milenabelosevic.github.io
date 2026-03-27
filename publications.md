@@ -12,7 +12,7 @@ title: Publications
 
 - Belosevic, Milena (2025). “Identifying stance-bearing keywords in public debates with instruction-tuned language models.” In *Anthology of Computers and the Humanities*, edited by Taylor Arnold, Margherita Fantoli, and Ruben Ros, 436–466. [https://doi.org/10.63744/NskPfU7etX83](https://doi.org/10.63744/NskPfU7etX83)
 
-- Belosevic, Milena** (2026). “Invisible Speakers? Gender Disparity in German AI Discourse and Its Reflection in Language Models.” In *Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL).*
+- Belosevic, Milena** (2026). “Invisible Speakers? Gender Disparity in German AI Discourse and Its Reflection in Language Models.” In *Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL)*, 66-79,https://doi.org/10.18653/v1/2026.latechclfl-1.7
 
 
 ### Context-sensitive meaning and word formation
@@ -35,7 +35,6 @@ title: Publications
 ### Full publication list
 
 - Belosevic, Milena (2026). The Influence of Linguistic Experience and Connotative Meanings on the Perceived Creativity of German Personal Name Blends: An Experimental Study. *Word Structure* 19/1, 1-25. <https://doi.org/10.3366/word.2026.0259>
-- 
 - Belosevic, Milena. 2026. First- and second-order interpretation of small data patterns in German counselling dialogues. Digital Humanities Conference, Daejeon, South Korea.
   
 - Belosevic, Milena. 2026. German Counselling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
