@@ -37,7 +37,7 @@ title: Publications
 - Belosevic, Milena (2026). The Influence of Linguistic Experience and Connotative Meanings on the Perceived Creativity of German Personal Name Blends: An Experimental Study. *Word Structure* 19/1, 1-25. <https://doi.org/10.3366/word.2026.0259>
 - Belosevic, Milena. 2026. First- and second-order interpretation of small data patterns in German counselling dialogues. Digital Humanities Conference, Daejeon, South Korea.
   
-- Belosevic, Milena. 2026. German Counselling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC).
+- Belosevic, Milena. 2026. German Counselling Grounding-Act Corpus (GRACO). In: Proceedings of the fifteenth biennial Language Resources and Evaluation Conference (LREC), 6251-6261. <https://doi.org/10.63317/3cbc5jpg7spd>
 
 - Belosevic, Milena. 2026.  Invisible Speakers? Gender Disparity in German AI Discourse and Its Reflection in Language Models. Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (SIGHUM (LaTeCH-CLfL)).
   
