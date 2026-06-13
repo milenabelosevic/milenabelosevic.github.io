@@ -43,6 +43,8 @@ title: Publications
   
 - Belosevic, Milena. 2026. Narrative construction of “AI” through anthropomorphising language in German public discourse. DH Benelux 2026, Maastricht.
 
+- Belosevic, Milena. 2026. Von Leserbrief bis Prompt: Textsortenvariation mit CATMA annotieren. forTEXT Journal.
+
 - Arndt-Lappe, Sabine; Stumpf, Sören, **Belosevic, Milena**; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.) (to appear). *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
 
 - Belosevic, Milena (to appear). Name-based lexical patterns: The case of personal name compounds. In: Arndt-Lappe, Sabine; Stumpf, Sören, Belosevic, Milena; Maurer, Peter; Moulin, Claudine; Rettinger, Achim (Hrsg.), *Pattern Theory in Language and Communication*. Berlin/Boston: De Gruyter (= Interdisciplinary Linguistics).
