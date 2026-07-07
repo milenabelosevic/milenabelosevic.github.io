@@ -4,6 +4,10 @@ title: Teaching
 ---
 
 ### Courses at Bielefeld University
+**Wintersemester 2026/27**
+
+- Muster in Sprache und Kommunikation (Bachelor und Master)
+- Digitale Kommunikation (Bachelor und Master)
 
 **Sommersemester 2026**
 
